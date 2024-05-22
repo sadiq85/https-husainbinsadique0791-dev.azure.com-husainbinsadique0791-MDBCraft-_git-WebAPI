@@ -13,6 +13,7 @@ namespace MDBCraftDevOps
     {
         public static void Main(string[] args)
         {
+            //Added by Sadique
             CreateHostBuilder(args).Build().Run();
         }
 
